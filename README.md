@@ -2,7 +2,9 @@
 
 Only Deploy to Replit, if you have the Hacker Plan (Repository is too big for normal Users)
 
-Fork Supernova On Replit: https://replit.com/@akabubbo/interstellar-proxy?v=1
+Fork Supernova On Replit: https://replit.com/@akabubbo/interstellar-proxy?v=1 
+
+
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/InterstellarNetwork/Supernov)
 
 
